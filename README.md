@@ -8,11 +8,12 @@
 5. Missing gender values were codified and updated by TCPD.
 
 ### Terms and conditions
-The TCPD-IAS dataset consists of information on IAS officers from 1951 to 2020. The users are free to download, display or include the data in other products for non-commercial purposes at no cost subject to the following limitations: 
 
+The TCPD-IAS dataset consists of information on IAS officers from 1951 to 2020. The users are free to download, display or include the data in other products for non-commercial purposes at no cost subject to the following limitations: 
 #### Data Citation: 
 "TCPD Indian Administrative Service Officers Dataset (TCPD-IAS), 1951-2020". Trivedi Centre for Political Data, Ashoka University.
-Codebook Citation: Neelesh Agrawal, Srishti Gupta, Vedant Jumle, Mohit Kumar, SV Sai Vikas. 2021. "TCPD Indian Administrative Service Officers Dataset (TCPD-IAS), 1951-2020 Codebook 1.2", Trivedi Centre for Political Data, Ashoka University.
+#### Codebook Citation: 
+Neelesh Agrawal, Srishti Gupta, Vedant Jumle, Mohit Kumar, SV Sai Vikas. 2021. "TCPD Indian Administrative Service Officers Dataset (TCPD-IAS), 1951-2020 Codebook 1.2", Trivedi Centre for Political Data, Ashoka University.
 #### Acknowledgement: 
 The user must agree that the use of the Data presented within the application can be seen as the acknowledgement of unconditionally accepting the Terms of Use presented by the Centre.
 #### No Endorsement: 
